@@ -1,0 +1,14 @@
+com.example.baca_mongo.app-jetified-window-java-1.0.0-beta04-0 /Users/sangga/.gradle/caches/transforms-3/43f0f7a8da99ce7f3d06f54e70644320/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.baca_mongo.app-core-1.6.0-1 /Users/sangga/.gradle/caches/transforms-3/57d2891dda6b6f5971418432f20e3ce6/transformed/core-1.6.0/res
+com.example.baca_mongo.app-jetified-window-1.0.0-beta04-2 /Users/sangga/.gradle/caches/transforms-3/9705774bd5874e3ca31abbb9def0e54f/transformed/jetified-window-1.0.0-beta04/res
+com.example.baca_mongo.app-jetified-annotation-experimental-1.1.0-3 /Users/sangga/.gradle/caches/transforms-3/e8534f4657b5f0d33d7e8bf7dc6542f2/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.baca_mongo.app-debug-4 /Users/sangga/FlutterProject/baca_mongo/android/app/src/debug/res
+com.example.baca_mongo.app-main-5 /Users/sangga/FlutterProject/baca_mongo/android/app/src/main/res
+com.example.baca_mongo.app-pngs-6 /Users/sangga/FlutterProject/baca_mongo/build/app/generated/res/pngs/debug
+com.example.baca_mongo.app-resValues-7 /Users/sangga/FlutterProject/baca_mongo/build/app/generated/res/resValues/debug
+com.example.baca_mongo.app-rs-8 /Users/sangga/FlutterProject/baca_mongo/build/app/generated/res/rs/debug
+com.example.baca_mongo.app-mergeDebugResources-9 /Users/sangga/FlutterProject/baca_mongo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.baca_mongo.app-mergeDebugResources-10 /Users/sangga/FlutterProject/baca_mongo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.baca_mongo.app-merged_res-11 /Users/sangga/FlutterProject/baca_mongo/build/app/intermediates/merged_res/debug
+com.example.baca_mongo.app-packaged_res-12 /Users/sangga/FlutterProject/baca_mongo/build/realm/intermediates/packaged_res/debug
+com.example.baca_mongo.app-packaged_res-13 /Users/sangga/FlutterProject/baca_mongo/build/shared_preferences_android/intermediates/packaged_res/debug
